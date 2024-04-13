@@ -1,0 +1,29 @@
+{
+  "name": "hu1veeconvert",
+  "version": "1.0.0",
+  "description": "hu1veeconvert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayleyswift/hu1veeconvert.git"
+  },
+  "keywords": [
+    "hu1veeconvert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "hayleyswift",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hayleyswift/hu1veeconvert/issues"
+  },
+  "homepage": "https://github.com/hayleyswift/hu1veeconvert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
